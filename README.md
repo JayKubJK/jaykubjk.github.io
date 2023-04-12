@@ -1,1 +1,3 @@
 # jaykubjk.github.io
+I kinda made this website so I can try out web design and programming.
+I don't know what I'll put on here. I *could* make this like an art gallery for my commissions, sona lore, etc...
