@@ -1,3 +1,3 @@
 # Web Design Is My Passion Fruit
-I kinda made this website so I can try out web design and programming.
-I don't know what I'll put on here. I *could* make this like an art gallery for my commissions, sona lore, etc...
+So I've decided to make this website mostly so I have a way to learn and apply web design, CSS/HTML, JS/TS stuff, etc
+What would I put on here? No clue. Maybe this would be my main website for my socials, art I've commissioned, an about me, I haven't thought about it yet.
